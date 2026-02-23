@@ -1,4 +1,4 @@
-<pre>A website for an imaginary water park with an unoriginal name
+A website for an imaginary water park with an unoriginal name
 
 # Entry
 Basic: $30  
@@ -21,7 +21,7 @@ Swim Shorts $30
 Branded towel $30  
 Branded Sandals $20  
 Goggles $20  
-
+<pre>
 
 
 
