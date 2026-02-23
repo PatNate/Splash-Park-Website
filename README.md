@@ -21,6 +21,9 @@ Swim Shorts $30
 Branded towel $30  
 Branded Sandals $20  
 Goggles $20  
+
+
+![alt text](https://github.com/patnate/Splash-Park/blob/main/Map.png?raw=true)
 <pre>
 
 
